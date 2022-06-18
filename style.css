@@ -1,0 +1,34 @@
+h3 {
+  background-color: green;
+  color: violet;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: italic;
+  font-weight: bold;
+}
+
+
+/* div {
+  height: 200px;        
+  width: 200px;
+  background-color: red;
+} */
+
+/* Class Selection */
+.div-class {
+  height: 100px;
+  width: 100px;
+  background-color: violet;
+}
+
+/* Id Selection */
+#div-one {
+  background-color: green;
+}
+
+#div-two {
+  background-color: red;
+}
+
+#sample {
+  background-color: blue !important;
+}

@@ -1,0 +1,61 @@
+
+
+Recap:
+
+  Last Session
+
+Topics:
+
+  CSS ( Cascading Style Sheet ) ---> Cosmestic or Clothes
+
+  property: value | Ways to use CSS
+
+    Internal Style:
+      Using Style Tag
+    
+    External Style:
+      Linking a stylesheet as a file:
+
+    
+    --> Priorities
+      Inline: 
+        Higher Priority irrespective of rendering flow
+
+      Internal & External 
+        HTML will take the style which executed recently while rendering
+
+  class vs id
+
+    id CSS Selector:
+      use #<id-name> to select a specific tag
+
+      Each Tag should have unique id
+    
+    Class:
+      use .<class-name> to select a grp of tag
+
+      multiple can have same class
+
+    --> Priorities
+    id & class for same elements
+
+    important keyword in CSS
+      to give the highest Priority
+
+    multiple classes
+      A tag/element can have muliple
+
+      Priorities will be based on the flow of execution
+
+  display Property:
+
+    inline & block | inline, block elements (div, span)
+
+    block-level( display: block ) elements will take the entire width of the HTML eg: div, heading, p
+    inline-level( display: inline ) elements will take the width its content content needed eg: span, b, i, 
+
+  
+  Table and Form Clarification
+
+  
+
